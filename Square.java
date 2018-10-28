@@ -1,4 +1,4 @@
-package com.ylajaaski;
+package com.xyz;
 
 
 /**The game consist of different squares which have their own coordinate and character.
