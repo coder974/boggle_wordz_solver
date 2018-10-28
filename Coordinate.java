@@ -1,4 +1,4 @@
-package com.ylajaaski;
+package com.xyz;
 
 
 /**This class contains the information of coordinates. Every character in the game will have its own
